@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-A student<br>Currently working on React Js
+🌱 Student <br>
+🔭 I’m currently working on React Js 
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=prachitripathi22&label=Profile%20Views&color=1&icon=0&pretty=false" />
