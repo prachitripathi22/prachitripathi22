@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 # 💫 About Me:
 A student<br>Currently working on React Js
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=prachitripathi22&label=Profile%20Views&color=1&icon=0&pretty=false" />
+</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prachi-tripathi22/) 
